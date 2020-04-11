@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\CRUD\CRUD\bin\Debug\CRUD.exe.config
+C:\Users\user\source\repos\CRUD\CRUD\bin\Debug\CRUD.exe
+C:\Users\user\source\repos\CRUD\CRUD\bin\Debug\CRUD.pdb
+C:\Users\user\source\repos\CRUD\CRUD\obj\Debug\CRUD.csprojAssemblyReference.cache
+C:\Users\user\source\repos\CRUD\CRUD\obj\Debug\CRUD.exe
+C:\Users\user\source\repos\CRUD\CRUD\obj\Debug\CRUD.pdb
